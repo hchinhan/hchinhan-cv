@@ -1,4 +1,0 @@
-# hchinhan-cv
-Download an HTML5 resume template from the internet. To clone it to your desktop, open the repository interface, click the green <> Code button, copy the link, and either use the command line to pull it to your machine or click Open with GitHub Desktop. After making your edits, you can start hosting the page using Git.
-
-Once you open your created repository, go to the Settings tab. Look at the left sidebar and find the Pages section under Code and automation. When the Pages interface appears, navigate to Build and deployment. Under Source, select Deploy from a branch. In the Branch section, choose main and /root, then click Save. Wait for about a minute until the message 'Your site is live at...' appears. Copy that link and append the name of the .html file you created in the repository at the end of the URL to access the webpage.
